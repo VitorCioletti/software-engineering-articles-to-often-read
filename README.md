@@ -13,6 +13,7 @@ Curated list of software engineering articles to read often.
 ## Microservices
 
 * https://www.infoq.com/articles/engstrand-microservice-threading/?itm_source=infoq&itm_campaign=user_page&itm_medium=link
+* https://martinfowler.com/bliki/MonolithFirst.html
 
 ## General advices 
 
