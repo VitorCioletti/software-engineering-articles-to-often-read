@@ -1,4 +1,4 @@
-# Awesome Articles to Read More Often 
+# Awesome Articles to Read Often 
 
 Curated list of software engineering articles to read more often.
 
