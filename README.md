@@ -1,4 +1,4 @@
-# Awesome Articles to Read Often 
+# Software engineering articles to read often 
 
 Curated list of software engineering articles to read often.
 
@@ -25,4 +25,5 @@ Curated list of software engineering articles to read often.
 ## Project management 
 
 * https://softwareengineering.stackexchange.com/questions/154733/my-boss-decided-to-add-a-person-to-blame-field-to-every-bug-report-how-can-i
+* https://softwareengineering.stackexchange.com/questions/158640/why-cant-the-it-industry-deliver-large-faultless-projects-quickly-as-in-other
 * https://softwareengineering.stackexchange.com/questions/648/how-to-respond-when-you-are-asked-for-an-estimate
