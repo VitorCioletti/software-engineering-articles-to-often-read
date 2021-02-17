@@ -1,6 +1,6 @@
-# Software engineering articles to read often 
+# Software engineering articles to often read 
 
-Curated list of software engineering articles to read often.
+Curated list of software engineering articles to often read.
 
 ## Fails
 
