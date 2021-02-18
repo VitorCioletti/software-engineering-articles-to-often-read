@@ -2,10 +2,16 @@
 
 Curated list of software engineering articles to often read.
 
+- [Architecture](#architecture)
 - [Fails](#fails)
-- [General advices](#general-advices)
-- [Microservices](#microservices)
+- [Programming](#programming)
 - [Project management](#project-management)
+
+## Architecture
+* [Glenn Engstrand - Microservice Threading Models and their Tradeoffs](https://www.infoq.com/articles/engstrand-microservice-threading/?itm_source=infoq&itm_campaign=user_page&itm_medium=link)
+* [Joel Spolsky - The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
+* [Joel Spolsky - Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+* [Martin Fowler - Monolith First](https://martinfowler.com/bliki/MonolithFirst.html)
 
 ## Fails
 
@@ -14,18 +20,13 @@ Curated list of software engineering articles to often read.
 * [Robert N. Charette - Why Software Fails](https://spectrum.ieee.org/computing/software/why-software-fails)
 * [Simson Garfinkel - History's Worst Software Bugs](https://www.wired.com/2005/11/historys-worst-software-bugs/)
 
-## General advices 
+## Programming
 
 * [Joel Coehoorn - What technical details should a programmer of a web application consider before making the site public?](https://softwareengineering.stackexchange.com/questions/46716/what-technical-details-should-a-programmer-of-a-web-application-consider-before)
 * [Joel Spolsky - The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
-* [Joel Spolsky - The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
-* [Joel Spolsky - Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 * [Oded - What is the single most effective thing you did to improve your programming skills?](https://softwareengineering.stackexchange.com/questions/44177/what-is-the-single-most-effective-thing-you-did-to-improve-your-programming-skil)
-
-## Microservices
-
-* [Glenn Engstrand - Microservice Threading Models and their Tradeoffs](https://www.infoq.com/articles/engstrand-microservice-threading/?itm_source=infoq&itm_campaign=user_page&itm_medium=link)
-* [Martin Fowler - Monolith First](https://martinfowler.com/bliki/MonolithFirst.html)
+* [Robert C. Martin (Uncle Bob) - Solid Relevance](https://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html)
+* [Steve Yegge- Execution in the Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
 
 ## Project management 
 
